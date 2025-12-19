@@ -1,0 +1,1052 @@
+[
+    {
+        "rank": 1,
+        "score": 0.74,
+        "prompt": "Choose the correct answer that matches the question asked, based on your knowledge of physics, law, mathematics, auction practices, and UK legislation."
+    },
+    {
+        "rank": 2,
+        "score": 0.7,
+        "prompt": "Identify the correct answer from the options provided based on factual knowledge, legal standards, mathematical calculations, or understanding of public policy."
+    },
+    {
+        "rank": 3,
+        "score": 0.7,
+        "prompt": "Calculate the correct answer based on legal principles, mathematical formulas, or scientific laws applicable to the question asked, then match it with one of the provided options and output only the letter corresponding to the selected option."
+    },
+    {
+        "rank": 4,
+        "score": 0.7,
+        "prompt": "Calculate the correct answer based on legal principles, mathematical formulas, or scientific laws relevant to the question asked, then match it with one of the provided options, and output only the letter corresponding to the correct option."
+    },
+    {
+        "rank": 5,
+        "score": 0.7,
+        "prompt": "Select the correct option that answers the question based on physics principles, legal standards, mathematical calculations, or knowledge of public sector regulations."
+    },
+    {
+        "rank": 6,
+        "score": 0.7,
+        "prompt": "Evaluate each question and select the correct answer from the provided options."
+    },
+    {
+        "rank": 7,
+        "score": 0.7,
+        "prompt": "Calculate the correct answer based on legal principles, mathematical formulas, or scientific laws and select the right option without providing explanations or extra details."
+    },
+    {
+        "rank": 8,
+        "score": 0.7,
+        "prompt": "Select the correct option that answers the question based on legal principles, physical laws, or logical deductions from the given facts without providing any explanations or reasoning in the answer."
+    },
+    {
+        "rank": 9,
+        "score": 0.68,
+        "prompt": "Identify the correct answer from the given options based on knowledge, logical reasoning, or calculation, and output only the letter of the correct option."
+    },
+    {
+        "rank": 10,
+        "score": 0.68,
+        "prompt": "Calculate the correct answer based on legal principles, mathematical formulas, or scientific laws and select the appropriate option without providing explanations or reasoning in the output."
+    },
+    {
+        "rank": 11,
+        "score": 0.68,
+        "prompt": "Select the correct option that answers the question based on mathematical, legal, evidentiary, historical, or physical principles, as applicable to the context of the question."
+    },
+    {
+        "rank": 12,
+        "score": 0.68,
+        "prompt": "Select the correct answer from the options provided for each question based on your knowledge and logical deduction. Ensure that your response strictly adheres to the format demonstrated in the input-output pairs, providing only the letter of the chosen option as the output."
+    },
+    {
+        "rank": 13,
+        "score": 0.68,
+        "prompt": "Calculate the correct answer for each question based on legal principles, mathematical formulas, or scientific laws and select the right option without providing any explanations or reasoning."
+    },
+    {
+        "rank": 14,
+        "score": 0.68,
+        "prompt": "Calculate the correct answer based on legal principles, mathematical formulas, or scientific laws and select the appropriate option provided without any explanation or reasoning."
+    },
+    {
+        "rank": 15,
+        "score": 0.68,
+        "prompt": "Select the correct option that answers the question based on legal principles, physical laws, or logical deductions from the given information, without providing any explanations or reasoning in your response."
+    },
+    {
+        "rank": 16,
+        "score": 0.68,
+        "prompt": "Identify the correct option that answers the question based on legal principles, physical laws, or mathematical calculations without providing explanations or reasoning in the answer."
+    },
+    {
+        "rank": 17,
+        "score": 0.68,
+        "prompt": "Choose the correct option that answers the question based on your knowledge or logical deduction from the given information. Ensure the answer is directly aligned with physics principles, legal standards, mathematical facts, or relevant statutes without elaboration."
+    },
+    {
+        "rank": 18,
+        "score": 0.68,
+        "prompt": "Calculate the correct answer based on legal principles, mathematical formulas, or scientific laws and choose the right option without providing explanations or extra information."
+    },
+    {
+        "rank": 19,
+        "score": 0.68,
+        "prompt": "Select the correct option that answers the question based on physics principles, mathematical logic, or business knowledge, as applicable."
+    },
+    {
+        "rank": 20,
+        "score": 0.68,
+        "prompt": "Calculate the correct answer based on legal principles, mathematical formulas, or scientific equations and select the right option without providing explanations or reasoning."
+    },
+    {
+        "rank": 21,
+        "score": 0.68,
+        "prompt": "Calculate the correct answer based on legal principles, mathematical formulas, or scientific equations and choose the correct option provided without any explanation."
+    },
+    {
+        "rank": 22,
+        "score": 0.68,
+        "prompt": "Identify the correct option that answers the question based on legal principles, scientific facts, mathematical solutions, and logical reasoning without providing explanations for each choice."
+    },
+    {
+        "rank": 23,
+        "score": 0.68,
+        "prompt": "Identify the most accurate answer based on legal principles, scientific facts, mathematical solutions, or property law rules and mark it directly without providing explanations or reasoning."
+    },
+    {
+        "rank": 24,
+        "score": 0.68,
+        "prompt": "Choose the correct option that answers the question based on scientific facts, legal standards, mathematical calculations, or knowledge of public policy acts."
+    },
+    {
+        "rank": 25,
+        "score": 0.66,
+        "prompt": "Calculate the correct answer for each question based on legal principles, mathematical formulas, and physical laws, then select the right option from those provided."
+    },
+    {
+        "rank": 26,
+        "score": 0.66,
+        "prompt": "Calculate the correct answer for each question based on legal principles, mathematical formulas, or scientific laws, then choose the correct option from those provided."
+    },
+    {
+        "rank": 27,
+        "score": 0.66,
+        "prompt": "Identify the correct answer based on legal principles, physical laws, or mathematical calculations from the provided options for each question."
+    },
+    {
+        "rank": 28,
+        "score": 0.66,
+        "prompt": "Evaluate the given information and select the most accurate answer from the provided options without providing any explanations or reasoning."
+    },
+    {
+        "rank": 29,
+        "score": 0.66,
+        "prompt": "Select the correct option that answers the question based on scientific principles, legal standards, mathematical calculations, or regulatory requirements without providing explanations or reasoning."
+    },
+    {
+        "rank": 30,
+        "score": 0.66,
+        "prompt": "Choose the correct answer that matches the question asked, based on your knowledge of physics, law, mathematics, economics, and contract principles without providing any explanations or reasoning."
+    },
+    {
+        "rank": 31,
+        "score": 0.66,
+        "prompt": "Evaluate each question based on legal principles, mathematical formulas, or scientific laws as appropriate and select the correct answer from the provided options without providing any explanations or reasoning."
+    },
+    {
+        "rank": 32,
+        "score": 0.66,
+        "prompt": "Select the correct answer for each question based on physics principles, corporate characteristics, and mathematical rules without providing any explanations or reasoning."
+    },
+    {
+        "rank": 33,
+        "score": 0.66,
+        "prompt": "Calculate the correct distribution of assets based on legal principles and facts provided; identify the correct fields for public service procurement under the UK Public Services (Social Value) Act 2013; determine if a detention without probable cause determination violates due process; calculate the total distance an ant travels between three points; find the radius of a circle formed by electrons in Earth’s magnetic field given their speed and the field's strength."
+    },
+    {
+        "rank": 34,
+        "score": 0.66,
+        "prompt": "Evaluate each scenario based on legal principles, mathematical calculations, or physical laws as appropriate and select the correct answer from the provided options without providing any explanations or reasoning."
+    },
+    {
+        "rank": 35,
+        "score": 0.66,
+        "prompt": "Select the correct answer for each question based on physics principles, corporate characteristics, and mathematical logic without providing explanations or additional reasoning."
+    },
+    {
+        "rank": 36,
+        "score": 0.66,
+        "prompt": "Evaluate the given input based on established knowledge and principles from the relevant field, whether it be mathematics, law, evidence law, history, or physics, and select the correct answer from the provided options without providing any explanations or reasoning in the output."
+    },
+    {
+        "rank": 37,
+        "score": 0.66,
+        "prompt": "Evaluate each input question carefully and select the correct answer from the given options without providing any explanations or reasoning. Output only the letter of the correct answer option."
+    },
+    {
+        "rank": 38,
+        "score": 0.66,
+        "prompt": "Evaluate each input scenario and select the correct answer from the provided options without providing any explanations or reasoning."
+    },
+    {
+        "rank": 39,
+        "score": 0.66,
+        "prompt": "Identify the correct answer from the given options based on the question provided."
+    },
+    {
+        "rank": 40,
+        "score": 0.66,
+        "prompt": "Evaluate each input for accuracy based on known facts, logical deduction, or contextual understanding and provide the correct answer from the options given without any explanations."
+    },
+    {
+        "rank": 41,
+        "score": 0.66,
+        "prompt": "Select the correct option that answers the question presented, based on your knowledge and understanding of the context provided in each input."
+    },
+    {
+        "rank": 42,
+        "score": 0.66,
+        "prompt": "Identify the correct answer from the options provided based on knowledge and logical reasoning related to physics, law, mathematics, and public policy."
+    },
+    {
+        "rank": 43,
+        "score": 0.66,
+        "prompt": "Select the correct option that answers the question provided in each input-output pair based on physics principles, corporate characteristics, and mathematical logic respectively."
+    },
+    {
+        "rank": 44,
+        "score": 0.64,
+        "prompt": "Select the correct option that answers the question given in the input, based on physics principles, business knowledge, or mathematical reasoning as appropriate for the question."
+    },
+    {
+        "rank": 45,
+        "score": 0.64,
+        "prompt": "Calculate the correct answer for each question based on legal principles, mathematical formulas, and physical laws, then choose the right option from those given."
+    },
+    {
+        "rank": 46,
+        "score": 0.64,
+        "prompt": "Identify the correct answer for each question based on legal principles, scientific facts, mathematical logic, and property law rules, respectively. Provide only the letter of the correct option as the output."
+    },
+    {
+        "rank": 47,
+        "score": 0.64,
+        "prompt": "Identify the correct answer for each question based on legal principles, mathematical calculations, or physical laws and provide only the letter of the correct option as the answer."
+    },
+    {
+        "rank": 48,
+        "score": 0.64,
+        "prompt": "Select the correct answer for each question based on physics principles, business knowledge, and mathematical analysis of sequences without providing any explanations or reasoning."
+    },
+    {
+        "rank": 49,
+        "score": 0.64,
+        "prompt": "Identify the correct option that answers the question based on legal principles, scientific facts, mathematical solutions, and logical reasoning provided in each scenario."
+    },
+    {
+        "rank": 50,
+        "score": 0.64,
+        "prompt": "Select the correct option that answers the question presented, based on knowledge, logical reasoning, or calculation, without providing any explanations or intermediate steps."
+    },
+    {
+        "rank": 51,
+        "score": 0.64,
+        "prompt": "Choose the correct option that answers the question based on your knowledge or given context, ensuring the answer reflects an accurate understanding of physics principles, legal standards, mathematical calculations, or relevant regulations without providing any explanations or reasoning."
+    },
+    {
+        "rank": 52,
+        "score": 0.64,
+        "prompt": "Calculate the correct answer based on legal principles, mathematical formulas, or scientific laws applicable to the question asked and select from the provided options."
+    },
+    {
+        "rank": 53,
+        "score": 0.64,
+        "prompt": "Evaluate each input question and select the correct answer from the options provided without providing any explanations or reasoning. Output only the letter corresponding to the correct answer."
+    },
+    {
+        "rank": 54,
+        "score": 0.64,
+        "prompt": "Evaluate the given input and select the correct answer from the options provided without providing any explanations or reasoning. Output only the letter of the correct answer option."
+    },
+    {
+        "rank": 55,
+        "score": 0.64,
+        "prompt": "Evaluate the given information and select the correct option that accurately answers the question or completes the statement provided in each input. Provide only the letter of the correct answer as shown in the output examples."
+    },
+    {
+        "rank": 56,
+        "score": 0.64,
+        "prompt": "Identify the correct answer from the given options based on legal principles, physical laws, mathematical calculations, or knowledge of legislative acts."
+    },
+    {
+        "rank": 57,
+        "score": 0.64,
+        "prompt": "Calculate the correct answer for each question based on legal principles, mathematical formulas, or physical laws and select the appropriate option provided."
+    },
+    {
+        "rank": 58,
+        "score": 0.64,
+        "prompt": "Identify the most accurate answer from the provided options based on legal principles, scientific facts, mathematical solutions, and property laws respectively for each input question."
+    },
+    {
+        "rank": 59,
+        "score": 0.64,
+        "prompt": "Choose the correct answer for each question based on your knowledge and logical deduction."
+    },
+    {
+        "rank": 60,
+        "score": 0.64,
+        "prompt": "Identify the correct option that answers the question based on accurate knowledge of physics, law, mathematics, and business practices without providing any explanations or reasoning."
+    },
+    {
+        "rank": 61,
+        "score": 0.64,
+        "prompt": "Identify the correct answer from the given options based on legal principles, scientific facts, mathematical solutions, and logical reasoning related to the question provided. Provide only the letter of the correct option as the response."
+    },
+    {
+        "rank": 62,
+        "score": 0.64,
+        "prompt": "Select the correct option that answers the question based on legal principles, physical laws, or logical reasoning provided in the input. Ensure the answer reflects an understanding of property law, constitutional law, geometry, and physics as applicable to the questions given."
+    },
+    {
+        "rank": 63,
+        "score": 0.64,
+        "prompt": "Select the correct answer for each question based on physics principles, corporate characteristics, and mathematical properties."
+    },
+    {
+        "rank": 64,
+        "score": 0.62,
+        "prompt": "Select the correct option that answers the question based on mathematical, legal, evidentiary, historical, or physical principles, as appropriate to the question."
+    },
+    {
+        "rank": 65,
+        "score": 0.62,
+        "prompt": "Choose the correct option that answers the question based on your knowledge or given context, ensuring the answer is precise and directly addresses the query without additional explanations or reasoning."
+    },
+    {
+        "rank": 66,
+        "score": 0.62,
+        "prompt": "Evaluate the given information and select the correct option that accurately answers the question or completes the statement provided in each input. Ensure your answer is based on logical deduction, mathematical calculation, legal principles, historical context, or physical laws as appropriate to the content of the question. Provide only the letter corresponding to the selected option."
+    },
+    {
+        "rank": 67,
+        "score": 0.62,
+        "prompt": "Calculate the correct distribution of assets based on inheritance laws and contracts; determine the required consideration in public service procurement under the UK Public Services (Social Value) Act 2013; assess whether a detention without probable cause for an extended period violates due process; compute the total distance traveled by an ant moving between given points; find the radius of the circular path of electrons in Earth's magnetic field."
+    },
+    {
+        "rank": 68,
+        "score": 0.62,
+        "prompt": "Identify the correct option that answers the question based on knowledge and logical reasoning."
+    },
+    {
+        "rank": 69,
+        "score": 0.62,
+        "prompt": "Evaluate each question and select the correct answer from the given options."
+    },
+    {
+        "rank": 70,
+        "score": 0.62,
+        "prompt": "Calculate the correct answer based on legal principles, mathematical formulas, or scientific laws and select the right option provided."
+    },
+    {
+        "rank": 71,
+        "score": 0.62,
+        "prompt": "Identify the correct answer based on legal principles, scientific facts, mathematical reasoning, and property laws respectively for each question provided."
+    },
+    {
+        "rank": 72,
+        "score": 0.62,
+        "prompt": "Evaluate each question and select the correct answer from the provided options based on logical reasoning, scientific principles, legal standards, historical context, or evidentiary value as appropriate for the question type."
+    },
+    {
+        "rank": 73,
+        "score": 0.62,
+        "prompt": "Select the correct answer for each question based on your knowledge of physics, law, mathematics, auction practices, and UK legislation."
+    },
+    {
+        "rank": 74,
+        "score": 0.62,
+        "prompt": "Evaluate the given information and select the correct option that answers the question or completes the statement accurately based on common knowledge, logical deduction, or specific facts provided in the question. Provide only the letter of the correct answer without any additional explanation or context."
+    },
+    {
+        "rank": 75,
+        "score": 0.62,
+        "prompt": "Choose the correct answer that matches the question provided, based on your knowledge and understanding of the concepts involved. Ensure your answer is precise and directly corresponds to one of the options given without any elaboration."
+    },
+    {
+        "rank": 76,
+        "score": 0.62,
+        "prompt": "Select the correct option that answers the question based on factual knowledge, logical deduction, or understanding of the context provided in the question."
+    },
+    {
+        "rank": 77,
+        "score": 0.62,
+        "prompt": "Select the correct option that answers the question presented, based on knowledge and logical reasoning. Output only the letter corresponding to the selected option."
+    },
+    {
+        "rank": 78,
+        "score": 0.62,
+        "prompt": "Select the correct option that answers the question based on scientific principles, legal standards, mathematical calculations, or policy knowledge, ensuring the answer reflects accurate understanding and application of relevant rules or laws."
+    },
+    {
+        "rank": 79,
+        "score": 0.62,
+        "prompt": "Identify the correct answer from the given options based on legal principles, scientific facts, mathematical logic, and property laws respectively for each input-output pair provided."
+    },
+    {
+        "rank": 80,
+        "score": 0.62,
+        "prompt": "Identify the most appropriate answer based on legal principles, scientific facts, mathematical logic, or property laws for each question given the context and options provided."
+    },
+    {
+        "rank": 81,
+        "score": 0.62,
+        "prompt": "Select the correct answer for each question based on your knowledge of physics, law, mathematics, auction principles, and public services legislation."
+    },
+    {
+        "rank": 82,
+        "score": 0.62,
+        "prompt": "Identify the correct answer based on legal principles, scientific facts, mathematical logic, and property law respectively for each given question, then provide only the letter of the correct option as the output."
+    },
+    {
+        "rank": 83,
+        "score": 0.62,
+        "prompt": "Select the correct answer for each question based on physics principles, corporate characteristics, and mathematical logic without providing any explanations or reasoning."
+    },
+    {
+        "rank": 84,
+        "score": 0.62,
+        "prompt": "Choose the correct answer that matches the question asked, based on your knowledge of physics, law, mathematics, auction principles, and public services legislation. Output only the letter corresponding to the correct answer."
+    },
+    {
+        "rank": 85,
+        "score": 0.62,
+        "prompt": "Identify the most accurate answer based on legal principles, scientific facts, mathematical calculations, and property laws respectively for each question provided. Provide your response as a single letter corresponding to the correct option without any additional commentary."
+    },
+    {
+        "rank": 86,
+        "score": 0.62,
+        "prompt": "Choose the correct option that answers the question based on the knowledge of physics, law, auctions, geometry, and public services act respectively."
+    },
+    {
+        "rank": 87,
+        "score": 0.62,
+        "prompt": "Identify the correct answer from the provided options based on knowledge and logical reasoning relevant to the question asked."
+    },
+    {
+        "rank": 88,
+        "score": 0.62,
+        "prompt": "Identify the most accurate answer based on legal principles, scientific facts, mathematical calculations, and property laws for each question given the context and options provided."
+    },
+    {
+        "rank": 89,
+        "score": 0.62,
+        "prompt": "Select the correct option that answers the question provided, based on physics principles, mathematical calculations, or business knowledge as required by the question context."
+    },
+    {
+        "rank": 90,
+        "score": 0.62,
+        "prompt": "Select the correct option that answers the question provided in each input. Each answer should be based on physics principles, mathematical logic, business concepts, or number theory as appropriate for the question asked."
+    },
+    {
+        "rank": 91,
+        "score": 0.62,
+        "prompt": "Identify the correct answer from the provided options based on legal principles, mathematical calculations, or physical laws relevant to the question."
+    },
+    {
+        "rank": 92,
+        "score": 0.62,
+        "prompt": "Identify the correct option that answers the question based on legal principles, scientific facts, mathematical logic, or understanding of property law and marital rights, ensuring the answer reflects the most accurate and applicable knowledge to the scenario provided."
+    },
+    {
+        "rank": 93,
+        "score": 0.6,
+        "prompt": "Select the correct answer for each physics, business, and math question based on principles of mechanics, corporate structure, and number theory respectively."
+    },
+    {
+        "rank": 94,
+        "score": 0.6,
+        "prompt": "Select the correct answer for each question based on physics principles, business knowledge, or mathematical reasoning."
+    },
+    {
+        "rank": 95,
+        "score": 0.6,
+        "prompt": "Select the correct answer for each question based on the provided options and information."
+    },
+    {
+        "rank": 96,
+        "score": 0.6,
+        "prompt": "Select the correct answer for each question based on logical reasoning and knowledge of the subject matter provided in the options."
+    },
+    {
+        "rank": 97,
+        "score": 0.6,
+        "prompt": "Calculate the correct answer based on legal principles, mathematical formulas, or scientific laws and select the right option accordingly."
+    },
+    {
+        "rank": 98,
+        "score": 0.6,
+        "prompt": "Calculate the correct answer based on legal principles, physical laws, or mathematical formulas and select the right option from the given choices."
+    },
+    {
+        "rank": 99,
+        "score": 0.6,
+        "prompt": "Identify the correct answer from the given options based on legal principles, physical laws, or mathematical calculations relevant to the question provided."
+    },
+    {
+        "rank": 100,
+        "score": 0.6,
+        "prompt": "Select the correct option that answers the question provided in each input-output pair based on physics principles, business knowledge, and mathematical understanding."
+    },
+    {
+        "rank": 101,
+        "score": 0.6,
+        "prompt": "Calculate the correct answer based on legal principles, mathematical formulas, or scientific laws and choose the right option from those provided."
+    },
+    {
+        "rank": 102,
+        "score": 0.6,
+        "prompt": "Select the correct answer for each question based on physics principles, corporate characteristics, and mathematical rules."
+    },
+    {
+        "rank": 103,
+        "score": 0.6,
+        "prompt": "Evaluate each question and select the correct answer from the options provided."
+    },
+    {
+        "rank": 104,
+        "score": 0.6,
+        "prompt": "Identify the correct option that answers the question based on legal principles, scientific facts, mathematical solutions, or property laws, as applicable to each scenario provided."
+    },
+    {
+        "rank": 105,
+        "score": 0.6,
+        "prompt": "Select the correct option that answers the question based on physics principles, mathematical logic, or economic facts, as appropriate for the question type."
+    },
+    {
+        "rank": 106,
+        "score": 0.6,
+        "prompt": "Select the correct answer for each question based on physics principles, corporate characteristics, and mathematical logic."
+    },
+    {
+        "rank": 107,
+        "score": 0.6,
+        "prompt": "Identify the correct answer from the options provided based on knowledge and logical reasoning, ensuring the answer is directly related to the question asked."
+    },
+    {
+        "rank": 108,
+        "score": 0.6,
+        "prompt": "Identify the correct answer from the provided options based on factual knowledge, logical deduction, or mathematical calculation related to the question asked."
+    },
+    {
+        "rank": 109,
+        "score": 0.6,
+        "prompt": "Choose the correct option that answers the question based on the provided information or calculation."
+    },
+    {
+        "rank": 110,
+        "score": 0.6,
+        "prompt": "Identify the correct answer from the given options based on factual knowledge, logical reasoning, or mathematical calculation."
+    },
+    {
+        "rank": 111,
+        "score": 0.6,
+        "prompt": "Identify the most accurate answer based on legal principles, scientific facts, mathematical solutions, and property law for each question given the context and options provided."
+    },
+    {
+        "rank": 112,
+        "score": 0.6,
+        "prompt": "Select the correct option that answers the question based on your knowledge or logical reasoning."
+    },
+    {
+        "rank": 113,
+        "score": 0.6,
+        "prompt": "Identify the correct answer for each question based on legal principles, scientific knowledge, mathematical logic, and understanding of property law and evidence admissibility rules."
+    },
+    {
+        "rank": 114,
+        "score": 0.58,
+        "prompt": "Identify the correct answer from the options provided based on knowledge and understanding of the subject matter."
+    },
+    {
+        "rank": 115,
+        "score": 0.58,
+        "prompt": "Calculate the correct answer for each question based on legal principles, mathematical formulas, or scientific laws and select the appropriate option provided."
+    },
+    {
+        "rank": 116,
+        "score": 0.58,
+        "prompt": "Select the correct answer for each question based on logical reasoning, mathematical calculation, legal principles, historical context, and physical laws respectively."
+    },
+    {
+        "rank": 117,
+        "score": 0.58,
+        "prompt": "Calculate the correct answer for each question based on legal principles, mathematical formulas, or scientific laws and select the right option provided."
+    },
+    {
+        "rank": 118,
+        "score": 0.58,
+        "prompt": "Calculate the correct answer based on legal principles, mathematical formulas, or scientific laws, and select the appropriate option given."
+    },
+    {
+        "rank": 119,
+        "score": 0.58,
+        "prompt": "Select the correct answer for each question based on physics principles, business knowledge, and mathematical analysis."
+    },
+    {
+        "rank": 120,
+        "score": 0.58,
+        "prompt": "Identify the correct answer for each question based on legal principles, physics laws, mathematical problem solving, and property law rules respectively."
+    },
+    {
+        "rank": 121,
+        "score": 0.58,
+        "prompt": "Calculate the correct answer based on legal principles, mathematical formulas, or scientific laws provided in the question, and choose the right option from given choices."
+    },
+    {
+        "rank": 122,
+        "score": 0.58,
+        "prompt": "calculate or determine the correct answer based on legal principles, physical laws, or mathematical formulas for each question provided and select the appropriate option from the given choices."
+    },
+    {
+        "rank": 123,
+        "score": 0.58,
+        "prompt": "Select the correct option that answers the question provided in each input-output pair. Ensure your answer is based on principles of physics, mathematics, business studies, and related fields as appropriate for the question."
+    },
+    {
+        "rank": 124,
+        "score": 0.58,
+        "prompt": "Identify the correct answer from the options provided based on knowledge and logical reasoning related to physics, law, mathematics, auctions, and public services legislation."
+    },
+    {
+        "rank": 125,
+        "score": 0.58,
+        "prompt": "Select the correct answer for each question based on knowledge of physics, law, mathematics, and public procurement legislation."
+    },
+    {
+        "rank": 126,
+        "score": 0.58,
+        "prompt": "Identify the correct answer from the given options based on factual knowledge, logical deduction, or mathematical calculation relevant to the question asked."
+    },
+    {
+        "rank": 127,
+        "score": 0.58,
+        "prompt": "Identify the correct answer from the given options based on factual knowledge, logical deduction, or mathematical calculation."
+    },
+    {
+        "rank": 128,
+        "score": 0.58,
+        "prompt": "Identify the correct option that answers the question based on factual knowledge, logical deduction, or mathematical calculation."
+    },
+    {
+        "rank": 129,
+        "score": 0.58,
+        "prompt": "Select the correct answer for each question based on principles of physics, business, and mathematics, as applicable to the context of the problem provided."
+    },
+    {
+        "rank": 130,
+        "score": 0.58,
+        "prompt": "Select the correct answer for each question based on mathematical, legal, evidentiary, historical, and physical principles respectively."
+    },
+    {
+        "rank": 131,
+        "score": 0.58,
+        "prompt": "Select the correct answer for each question based on physics principles, corporate characteristics, and mathematical properties, respectively."
+    },
+    {
+        "rank": 132,
+        "score": 0.58,
+        "prompt": "Calculate the correct distribution of assets upon death based on wills and marital rights; identify requirements for public service procurement under specific legislation; determine constitutionality of detention periods without probable cause; calculate total distance traveled by an object between given coordinates; find radius of circular path of charged particles in a magnetic field using given speed and magnetic field strength."
+    },
+    {
+        "rank": 133,
+        "score": 0.58,
+        "prompt": "Identify the correct option that answers the question based on legal principles, scientific laws, mathematical logic, or legal rules as appropriate for the context of the question."
+    },
+    {
+        "rank": 134,
+        "score": 0.58,
+        "prompt": "Select the correct answer from the options provided for each question based on logical reasoning, mathematical calculations, legal principles, historical context, and physical laws as applicable."
+    },
+    {
+        "rank": 135,
+        "score": 0.58,
+        "prompt": "Select the correct option that answers the question presented, based on knowledge, logical reasoning, or calculation as needed."
+    },
+    {
+        "rank": 136,
+        "score": 0.58,
+        "prompt": "Calculate the correct answer based on legal principles, mathematical formulas, or scientific laws and select the appropriate option."
+    },
+    {
+        "rank": 137,
+        "score": 0.58,
+        "prompt": "Evaluate each scenario and select the most accurate answer from the provided options based on mathematical principles, legal standards, evidentiary rules, historical context, and physical laws respectively."
+    },
+    {
+        "rank": 138,
+        "score": 0.58,
+        "prompt": "Identify the correct answer from the options provided based on legal principles, scientific facts, mathematical calculations, and logical reasoning related to the question asked."
+    },
+    {
+        "rank": 139,
+        "score": 0.56,
+        "prompt": "Select the correct option that answers the question based on your knowledge or logical deduction from the given information."
+    },
+    {
+        "rank": 140,
+        "score": 0.56,
+        "prompt": "Identify the correct answer from the provided options based on knowledge and logical reasoning related to physics, law, mathematics, economics, and contract principles."
+    },
+    {
+        "rank": 141,
+        "score": 0.56,
+        "prompt": "Identify the correct answer from the given options based on knowledge, logic, and reasoning provided by each question."
+    },
+    {
+        "rank": 142,
+        "score": 0.56,
+        "prompt": "Evaluate each question and select the correct option as the answer."
+    },
+    {
+        "rank": 143,
+        "score": 0.56,
+        "prompt": "Evaluate each input scenario critically and concisely select the most accurate answer from the given options based on logical reasoning, scientific principles, legal standards, historical context, or evidentiary value, as appropriate to the question's subject matter."
+    },
+    {
+        "rank": 144,
+        "score": 0.56,
+        "prompt": "Identify the correct option that answers the question based on legal principles, scientific facts, mathematical logic, or property laws, as appropriate for each scenario provided."
+    },
+    {
+        "rank": 145,
+        "score": 0.56,
+        "prompt": "Evaluate each scenario based on legal principles and mathematical formulas respectively, selecting the correct option that accurately reflects the outcome or solution."
+    },
+    {
+        "rank": 146,
+        "score": 0.56,
+        "prompt": "Select the correct answer for each question based on physics principles, corporate characteristics, and mathematical analysis of sequences."
+    },
+    {
+        "rank": 147,
+        "score": 0.56,
+        "prompt": "Calculate the correct answer based on legal principles, mathematical formulas, or scientific laws and select the right option from the given choices."
+    },
+    {
+        "rank": 148,
+        "score": 0.56,
+        "prompt": "Identify the correct answer based on legal principles, scientific facts, mathematical logic, and property laws respectively for each question provided."
+    },
+    {
+        "rank": 149,
+        "score": 0.56,
+        "prompt": "Choose the correct answer by analyzing the given information and options for each question."
+    },
+    {
+        "rank": 150,
+        "score": 0.56,
+        "prompt": "Identify the correct answer from the provided options based on knowledge and logical reasoning related to physics, law, mathematics, and public policy respectively for each question given."
+    },
+    {
+        "rank": 151,
+        "score": 0.56,
+        "prompt": "Evaluate the given inputs and select the correct answer from the provided options based on logical reasoning, mathematical calculations, legal principles, evidentiary standards, historical context, and physical laws as appropriate for each question."
+    },
+    {
+        "rank": 152,
+        "score": 0.54,
+        "prompt": "Identify the correct answer from the provided options based on legal principles, scientific facts, mathematical solutions, and logical reasoning related to the given question."
+    },
+    {
+        "rank": 153,
+        "score": 0.54,
+        "prompt": "Select the correct option that answers the question based on mathematical calculations, legal principles, evidentiary rules, historical evidence analysis, and physical laws respectively for each given scenario."
+    },
+    {
+        "rank": 154,
+        "score": 0.54,
+        "prompt": "Identify the correct answer from the provided options based on legal principles, scientific facts, mathematical calculations, and logical reasoning related to the question asked."
+    },
+    {
+        "rank": 155,
+        "score": 0.54,
+        "prompt": "Evaluate the given input based on knowledge and logical reasoning, then select the correct answer from the provided options."
+    },
+    {
+        "rank": 156,
+        "score": 0.54,
+        "prompt": "Choose the correct option that answers the question based on your knowledge or logical deduction from the given information."
+    },
+    {
+        "rank": 157,
+        "score": 0.54,
+        "prompt": "Calculate the correct distribution of assets based on the legal and familial circumstances described; identify the correct requirement for procuring public services under the UK Public Services (Social Value) Act 2013; determine if a prolonged detention without probable cause is constitutional; calculate the total distance an ant travels between given points; find the radius of the circle formed by electrons in Earth's magnetic field."
+    },
+    {
+        "rank": 158,
+        "score": 0.54,
+        "prompt": "solve the given legal, factual, mathematical, or physical problem based on provided inputs and select the correct answer from the options given."
+    },
+    {
+        "rank": 159,
+        "score": 0.54,
+        "prompt": "Identify the correct option that answers the question based on legal principles, scientific facts, mathematical solutions, and logical reasoning provided in each input."
+    },
+    {
+        "rank": 160,
+        "score": 0.54,
+        "prompt": "Calculate the correct answer based on legal principles, physical laws, mathematical formulas, or factual knowledge related to the question provided, and select from the given options."
+    },
+    {
+        "rank": 161,
+        "score": 0.54,
+        "prompt": "Calculate the correct answer based on legal principles, mathematical formulas, or scientific laws and choose the right option accordingly."
+    },
+    {
+        "rank": 162,
+        "score": 0.54,
+        "prompt": "Identify the correct answer based on factual knowledge, legal standards, mathematical calculations, or understanding of public policies from the given options for each question."
+    },
+    {
+        "rank": 163,
+        "score": 0.54,
+        "prompt": "Choose the correct option that answers the question based on your knowledge and logical reasoning."
+    },
+    {
+        "rank": 164,
+        "score": 0.54,
+        "prompt": "Choose the correct option that answers the question based on mathematical principles, legal standards, evidentiary rules, historical interpretation, and physical laws respectively for each given scenario."
+    },
+    {
+        "rank": 165,
+        "score": 0.54,
+        "prompt": "Select the correct answer for each question based on physics principles, corporate characteristics, and mathematical properties respectively."
+    },
+    {
+        "rank": 166,
+        "score": 0.52,
+        "prompt": "Select the correct answer for each question based on logical reasoning and knowledge, ensuring that the choice reflects a deep understanding of the underlying concepts whether they pertain to mathematics, law, evidence admissibility in court, historical texts interpretation, or physics principles."
+    },
+    {
+        "rank": 167,
+        "score": 0.52,
+        "prompt": "Identify the correct answer from the provided options based on legal principles, scientific facts, mathematical solutions, and logical deductions relevant to the question asked."
+    },
+    {
+        "rank": 168,
+        "score": 0.52,
+        "prompt": "Identify the correct answer from the provided options based on legal principles, scientific facts, mathematical calculations, and logical reasoning related to the question."
+    },
+    {
+        "rank": 169,
+        "score": 0.52,
+        "prompt": "Identify the correct answer from the provided options based on legal principles, scientific facts, mathematical logic, and property law, respectively for each question."
+    },
+    {
+        "rank": 170,
+        "score": 0.52,
+        "prompt": "Evaluate each question and select the correct answer from the given options based on logical reasoning, mathematical calculations, legal principles, historical context, or physical laws as appropriate for the question type."
+    },
+    {
+        "rank": 171,
+        "score": 0.52,
+        "prompt": "Evaluate each input and select the correct answer from the provided options based on logical reasoning, mathematical calculations, legal principles, historical context, or physical laws as appropriate for the question's content."
+    },
+    {
+        "rank": 172,
+        "score": 0.52,
+        "prompt": "Identify the correct answer from the given options based on legal principles, scientific facts, mathematical solutions, and logical reasoning related to the question provided."
+    },
+    {
+        "rank": 173,
+        "score": 0.52,
+        "prompt": "Evaluate the input and select the correct answer from the provided options based on logical reasoning, mathematical calculations, legal principles, historical context, or physical laws as appropriate."
+    },
+    {
+        "rank": 174,
+        "score": 0.52,
+        "prompt": "Identify the most accurate answer based on legal principles, scientific facts, mathematical calculations, and property laws for each question provided, ensuring that the response aligns with established rules and theories within those domains."
+    },
+    {
+        "rank": 175,
+        "score": 0.52,
+        "prompt": "Identify the correct answer from the options provided based on legal principles, scientific facts, mathematical solutions, and logical reasoning related to the question asked."
+    },
+    {
+        "rank": 176,
+        "score": 0.52,
+        "prompt": "Calculate the correct distribution of assets based on inheritance laws and agreements; identify the correct social value considerations for public services procurement under the UK Public Services (Social Value) Act 2013; determine if a detention without probable cause determination violates due process; calculate the total distance traveled by an ant moving in a straight line between two points including the origin; calculate the radius of a circle formed by electrons moving in a magnetic field."
+    },
+    {
+        "rank": 177,
+        "score": 0.52,
+        "prompt": "Choose the correct answer for each question based on logical reasoning and subject knowledge."
+    },
+    {
+        "rank": 178,
+        "score": 0.52,
+        "prompt": "Select the correct option that answers the question based on physics principles, mathematical calculations, economic knowledge, or logical reasoning provided in the question statement."
+    },
+    {
+        "rank": 179,
+        "score": 0.5,
+        "prompt": "Identify the correct answer from the options provided based on knowledge and logical reasoning."
+    },
+    {
+        "rank": 180,
+        "score": 0.5,
+        "prompt": "Calculate the correct distribution of assets upon death based on wills and marriage agreements; identify the required considerations under the UK Public Services (Social Value) Act 2013 for procuring public services; determine if a detention without probable cause determination violates due process; calculate the total distance an ant travels between given points; find the radius of a circle formed by deflecting electrons with Earth’s magnetic field."
+    },
+    {
+        "rank": 181,
+        "score": 0.5,
+        "prompt": "Choose the correct answer for each question based on physics principles and corporate knowledge provided in the options. For arithmetic sequences, calculate based on the properties of odd numbers and sequence summation formulas."
+    },
+    {
+        "rank": 182,
+        "score": 0.5,
+        "prompt": "Identify the correct answer based on legal principles, scientific facts, mathematical solutions, and contextual understanding from the given options for each question."
+    },
+    {
+        "rank": 183,
+        "score": 0.5,
+        "prompt": "Identify the correct answer for each question based on legal principles, scientific facts, mathematical solutions, and logical reasoning provided in the context of the questions."
+    },
+    {
+        "rank": 184,
+        "score": 0.5,
+        "prompt": "Identify the correct answer from the options provided based on legal principles, scientific facts, mathematical calculations, and logical reasoning."
+    },
+    {
+        "rank": 185,
+        "score": 0.5,
+        "prompt": "Select the correct answer for each question based on physics principles, corporate characteristics, and mathematical reasoning."
+    },
+    {
+        "rank": 186,
+        "score": 0.5,
+        "prompt": "Identify the correct answer for each question based on legal principles, scientific facts, mathematical calculations, and property law rules respectively."
+    },
+    {
+        "rank": 187,
+        "score": 0.5,
+        "prompt": "Select the correct answer for each question based on physics principles, corporate characteristics, and mathematical logic, respectively."
+    },
+    {
+        "rank": 188,
+        "score": 0.5,
+        "prompt": "Select the correct answer for each question based on physics principles, business knowledge, and mathematical analysis. Ensure your answers reflect an understanding of energy conservation, frictional forces, corporate attributes, field theory, and arithmetic sequences."
+    },
+    {
+        "rank": 189,
+        "score": 0.5,
+        "prompt": "Choose the correct answer for each question based on logical reasoning, mathematical calculation, legal understanding, historical context, and physical principles respectively."
+    },
+    {
+        "rank": 190,
+        "score": 0.5,
+        "prompt": "Identify the correct answer based on legal principles, scientific facts, mathematical solutions, and logical reasoning from the given options for each question."
+    },
+    {
+        "rank": 191,
+        "score": 0.5,
+        "prompt": "calculate or determine the correct answer based on legal principles, physical laws, or mathematical operations, as appropriate for the question asked."
+    },
+    {
+        "rank": 192,
+        "score": 0.5,
+        "prompt": "Identify the correct answer from the options provided based on knowledge and reasoning about the given question."
+    },
+    {
+        "rank": 193,
+        "score": 0.48,
+        "prompt": "Identify the most accurate answer based on legal principles, scientific facts, mathematical logic, and property law, respectively for each question provided."
+    },
+    {
+        "rank": 194,
+        "score": 0.48,
+        "prompt": "Identify the correct answer from the given options based on legal principles, scientific facts, mathematical solutions, and logical analysis of situations provided in each question."
+    },
+    {
+        "rank": 195,
+        "score": 0.48,
+        "prompt": "Identify the most appropriate answer based on legal principles, scientific facts, mathematical calculations, and logical reasoning from the given options for each question."
+    },
+    {
+        "rank": 196,
+        "score": 0.48,
+        "prompt": "Select the correct answer for each question based on physics principles, business concepts, and mathematical rules."
+    },
+    {
+        "rank": 197,
+        "score": 0.48,
+        "prompt": "Select the correct answer for each question based on mathematical principles, legal standards, evidentiary rules, historical interpretation, and physical laws respectively."
+    },
+    {
+        "rank": 198,
+        "score": 0.48,
+        "prompt": "Identify the correct answer from the given options based on legal principles, scientific facts, mathematical solutions, and logical analysis."
+    },
+    {
+        "rank": 199,
+        "score": 0.46,
+        "prompt": "Identify the correct answer from the options provided based on legal principles, scientific facts, mathematical solutions, and logical analysis of the scenarios given."
+    },
+    {
+        "rank": 200,
+        "score": 0.46,
+        "prompt": "Identify the most accurate answer based on legal principles, scientific facts, mathematical solutions, and property law rules respectively for each question given."
+    },
+    {
+        "rank": 201,
+        "score": 0.46,
+        "prompt": "Identify the most appropriate answer based on legal principles, scientific facts, mathematical logic, and property laws respectively for each question provided."
+    },
+    {
+        "rank": 202,
+        "score": 0.46,
+        "prompt": "Identify the correct answer from the provided options based on legal principles, scientific facts, mathematical reasoning, and logical analysis of the given scenarios."
+    },
+    {
+        "rank": 203,
+        "score": 0.46,
+        "prompt": "Choose the correct answer for each question based on logical reasoning and knowledge of the subject matter presented in the question."
+    },
+    {
+        "rank": 204,
+        "score": 0.44,
+        "prompt": "Determine the correct answer from the given options based on legal principles, scientific facts, mathematical calculations, and property laws, respectively for each question."
+    },
+    {
+        "rank": 205,
+        "score": 0.44,
+        "prompt": "Select the correct option that answers the question based on mathematical principles, legal standards, evidentiary rules, historical context, and physical laws respectively for each given scenario."
+    },
+    {
+        "rank": 206,
+        "score": 0.42,
+        "prompt": "Identify the correct answer from the given options based on legal principles, scientific facts, mathematical calculations, and logical reasoning related to the question provided."
+    },
+    {
+        "rank": 207,
+        "score": 0.42,
+        "prompt": "Select the correct answer from the options provided based on logical analysis, legal principles, mathematical calculations, historical context, and physical laws as relevant to each question."
+    },
+    {
+        "rank": 208,
+        "score": 0.4,
+        "prompt": "Identify the correct answer based on legal principles, scientific facts, mathematical calculations, and logical reasoning relevant to the question asked."
+    },
+    {
+        "rank": 209,
+        "score": 0.4,
+        "prompt": "Select the correct option that answers the question based on mathematical principles, legal standards, evidentiary rules, historical interpretations, and physical laws respectively for each input given."
+    },
+    {
+        "rank": 210,
+        "score": 0.38,
+        "prompt": "Identify the correct answer based on legal principles, scientific facts, mathematical solutions, and logical deductions for each question provided."
+    }
+]

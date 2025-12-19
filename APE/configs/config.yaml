@@ -1,0 +1,22 @@
+api:
+  optimizer_url: "http://140.113.86.14:11434/api/chat"
+  optimizer_model: "qwen2.5:32b"
+  target_url: "http://140.113.86.14:11434/api/chat"
+  target_model: "qwen2.5:7b"
+
+data:
+  dataset_name: "cais/mmlu"
+  subsets:
+    - "high_school_mathematics"
+    - "high_school_world_history"
+    - "high_school_physics"
+    - "professional_law"
+    - "business_ethics"
+  limit: 300
+  train_ratio: 0.8
+  split: "test"  # MMLU 通常用 test split
+
+experiment:
+  prompt_gen_size: 20
+  eval_rounds: 5
+  output_dir: "experiments/results/instruction_induction"

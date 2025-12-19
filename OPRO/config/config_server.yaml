@@ -1,0 +1,57 @@
+# ----------------------------------------------------
+# 專案設定 (Server Mode)
+# ----------------------------------------------------
+project:
+  task_name: 'all_specified' # 跑 MMLU 全部指定子集
+  log_dir: './logs_server'   # [選用] 區分 log 資料夾，避免混淆
+
+# ----------------------------------------------------
+# Scorer Model (Target Model: 負責做題)
+# ----------------------------------------------------
+scorer_model:
+  client_type: 'Ollama'
+  # 您的設定: Target 用 qwen2.5:7b
+  model_name: 'qwen2.5:32b'
+  # 您的設定: 做題需要 Chat 模式
+  api_url: 'http://140.113.86.14:11434/api/chat'
+  temperature: 0.0
+  max_output_tokens: 1024
+
+# ----------------------------------------------------
+# Optimizer Model (負責寫 Prompt)
+# ----------------------------------------------------
+optimizer_model:
+  client_type: 'Ollama'
+  # 您的設定: Optimizer 用更強的 qwen2.5:32b
+  model_name: 'qwen2.5:32b'
+  # 注意: Optimizer 使用 meta-prompt 補全，通常建議用 generate 接口
+  # 但如果不支援，Client 程式碼會自動幫您轉
+  api_url: 'http://140.113.86.14:11434/api/chat'
+  temperature: 0.7
+  max_output_tokens: 2048
+
+# ----------------------------------------------------
+# OPRO 優化參數
+# ----------------------------------------------------
+optimization:
+  dataset_name: 'mmlu'
+  train_ratio: 0.001
+  eval_interval: 2
+  num_iterations: 2
+  num_prompts_to_generate: 2       #8
+  max_num_instructions_in_prompt: 1     #20
+  
+  meta_prompt_path: 'prompt/meta_prompt.txt'
+  
+  instruction_pos: 'Q_begin'
+  is_instruction_tuned: true
+  
+  num_few_shot_questions: 3
+  few_shot_selection_criteria: 'random'
+  old_instruction_score_threshold: 0.1
+
+  initial_instructions:
+    - "Let's think step by step."
+    - "Solve this problem carefully."
+    - "Provide a detailed answer."
+    - "Answer the question directly."

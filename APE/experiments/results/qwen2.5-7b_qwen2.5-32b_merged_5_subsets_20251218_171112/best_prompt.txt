@@ -1,0 +1,16 @@
+Experiment: qwen2.5-7b_qwen2.5-32b_merged_5_subsets_20251218_171112
+Task: merged_5_subsets
+Best Score: 0.74
+--------------------------------------------------
+Best Prompt:
+Choose the correct answer that matches the question asked, based on your knowledge of physics, law, mathematics, auction practices, and UK legislation.
+--------------------------------------------------
+
+Token Usage Statistics:
+{
+    "prompt_tokens": 2648000,
+    "completion_tokens": 2076196,
+    "total_tokens": 4724196,
+    "total_calls": 10750
+}
+--------------------------------------------------

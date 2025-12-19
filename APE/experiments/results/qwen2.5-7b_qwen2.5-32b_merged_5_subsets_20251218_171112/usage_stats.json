@@ -1,0 +1,20 @@
+{
+    "optimizer_model": {
+        "prompt_tokens": 207050,
+        "completion_tokens": 7226,
+        "total_tokens": 214276,
+        "total_calls": 250
+    },
+    "target_model": {
+        "prompt_tokens": 2440950,
+        "completion_tokens": 2068970,
+        "total_tokens": 4509920,
+        "total_calls": 10500
+    },
+    "grand_total": {
+        "prompt_tokens": 2648000,
+        "completion_tokens": 2076196,
+        "total_tokens": 4724196,
+        "total_calls": 10750
+    }
+}

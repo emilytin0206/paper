@@ -1,0 +1,26 @@
+{
+    "optimizer": {
+        "model": "qwen2.5:32b",
+        "api_url": "http://140.113.86.14:11434",
+        "temperature": 0.7
+    },
+    "target": {
+        "model": "qwen2.5:7b",
+        "api_url": "http://140.113.86.14:11434",
+        "temperature": 0.0
+    },
+    "generation": {
+        "num_subsamples": 5,
+        "num_prompts_per_subsample": 50,
+        "num_demos": 5,
+        "prompt_gen_template": "I gave a friend an instruction. Based on the instruction they produced the following input-output pairs:\n\n[full_DEMO]\n\nThe instruction was to [INSTRUCTION]; output ONLY the instruction itself, with no explanation, reasoning, or additional text.",
+        "demos_template": "Input: [INPUT]\nOutput: [OUTPUT]"
+    },
+    "evaluation": {
+        "task_name": "mmlu",
+        "num_samples": 50,
+        "num_few_shot": 0,
+        "eval_template": "Instruction: [PROMPT]\nInput: [INPUT]\nOutput: [OUTPUT]",
+        "demos_template": "Input: [INPUT]\nOutput: [OUTPUT]"
+    }
+}
