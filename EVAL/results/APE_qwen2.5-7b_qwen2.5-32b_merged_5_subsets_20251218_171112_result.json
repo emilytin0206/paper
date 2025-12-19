@@ -1,0 +1,63 @@
+{
+  "source_file": "APE_qwen2.5-7b_qwen2.5-32b_merged_5_subsets_20251218_171112.json",
+  "model": "qwen2.5:7b",
+  "subsets": [
+    "high_school_mathematics",
+    "high_school_world_history",
+    "high_school_physics",
+    "professional_law",
+    "business_ethics"
+  ],
+  "results": [
+    {
+      "score": 0.5,
+      "prompt": "Choose the correct answer that matches the question asked, based on your knowledge of physics, law, mathematics, auction practices, and UK legislation.",
+      "count": 10
+    },
+    {
+      "score": 0.5,
+      "prompt": "Identify the correct answer from the options provided based on factual knowledge, legal standards, mathematical calculations, or understanding of public policy.",
+      "count": 10
+    },
+    {
+      "score": 0.5,
+      "prompt": "Calculate the correct answer based on legal principles, mathematical formulas, or scientific laws applicable to the question asked, then match it with one of the provided options and output only the letter corresponding to the selected option.",
+      "count": 10
+    },
+    {
+      "score": 0.7,
+      "prompt": "Calculate the correct answer based on legal principles, mathematical formulas, or scientific laws relevant to the question asked, then match it with one of the provided options, and output only the letter corresponding to the correct option.",
+      "count": 10
+    },
+    {
+      "score": 0.7,
+      "prompt": "Select the correct option that answers the question based on physics principles, legal standards, mathematical calculations, or knowledge of public sector regulations.",
+      "count": 10
+    },
+    {
+      "score": 0.5,
+      "prompt": "Evaluate each question and select the correct answer from the provided options.",
+      "count": 10
+    },
+    {
+      "score": 0.4,
+      "prompt": "Calculate the correct answer based on legal principles, mathematical formulas, or scientific laws and select the right option without providing explanations or extra details.",
+      "count": 10
+    },
+    {
+      "score": 0.5,
+      "prompt": "Select the correct option that answers the question based on legal principles, physical laws, or logical deductions from the given facts without providing any explanations or reasoning in the answer.",
+      "count": 10
+    },
+    {
+      "score": 0.6,
+      "prompt": "Identify the correct answer from the given options based on knowledge, logical reasoning, or calculation, and output only the letter of the correct option.",
+      "count": 10
+    },
+    {
+      "score": 0.5,
+      "prompt": "Calculate the correct answer based on legal principles, mathematical formulas, or scientific laws and select the appropriate option without providing explanations or reasoning in the output.",
+      "count": 10
+    }
+  ]
+}

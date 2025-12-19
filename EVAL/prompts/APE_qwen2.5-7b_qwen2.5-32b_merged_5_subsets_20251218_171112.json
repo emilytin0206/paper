@@ -1,0 +1,14 @@
+{
+    "prompts": [
+        "Choose the correct answer that matches the question asked, based on your knowledge of physics, law, mathematics, auction practices, and UK legislation.",
+        "Identify the correct answer from the options provided based on factual knowledge, legal standards, mathematical calculations, or understanding of public policy.",
+        "Calculate the correct answer based on legal principles, mathematical formulas, or scientific laws applicable to the question asked, then match it with one of the provided options and output only the letter corresponding to the selected option.",
+        "Calculate the correct answer based on legal principles, mathematical formulas, or scientific laws relevant to the question asked, then match it with one of the provided options, and output only the letter corresponding to the correct option.",
+        "Select the correct option that answers the question based on physics principles, legal standards, mathematical calculations, or knowledge of public sector regulations.",
+        "Evaluate each question and select the correct answer from the provided options.",
+        "Calculate the correct answer based on legal principles, mathematical formulas, or scientific laws and select the right option without providing explanations or extra details.",
+        "Select the correct option that answers the question based on legal principles, physical laws, or logical deductions from the given facts without providing any explanations or reasoning in the answer.",
+        "Identify the correct answer from the given options based on knowledge, logical reasoning, or calculation, and output only the letter of the correct option.",
+        "Calculate the correct answer based on legal principles, mathematical formulas, or scientific laws and select the appropriate option without providing explanations or reasoning in the output."
+    ]
+}
